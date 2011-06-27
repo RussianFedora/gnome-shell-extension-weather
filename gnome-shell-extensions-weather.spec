@@ -1,4 +1,4 @@
-Name:           gnome-shell-extensions-weather
+Name:           gnome-shell-extension-weather
 Version:        0.0.0
 Release:        0.2.d96e20869git%{?dist}.R
 Summary:        Weather forcast GNOME Shell Extension
