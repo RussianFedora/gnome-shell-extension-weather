@@ -1,6 +1,6 @@
 Name:           gnome-shell-extensions-weather
 Version:        0.0.0
-Release:        0.2.d96e20869git%{?dist}
+Release:        0.2.d96e20869git%{?dist}.R
 Summary:        Weather forcast GNOME Shell Extension
 Group:          User Interface/Desktops
 License:        GPLv2+ 
@@ -55,7 +55,7 @@ glib-compile-schemas %{_datadir}/glib-2.0/schemas &> /dev/null || :
 
 
 %changelog
-* Mon Jun 27 2011 Arkady L. Shane <ashejn@yandex-team.ru> - 0.0.0-0.2.d96e20869git
+* Mon Jun 27 2011 Arkady L. Shane <ashejn@yandex-team.ru> - 0.0.0-0.2.d96e20869git.R
 - new upstream release
 - drop patches
 
