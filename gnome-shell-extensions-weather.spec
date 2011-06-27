@@ -49,7 +49,7 @@ glib-compile-schemas %{_datadir}/glib-2.0/schemas &> /dev/null || :
 
 %files -f gnome-shell-extension-weather.lang
 %defattr(-,root,root,-)
-%doc README
+%doc README.md
 %{_datadir}/gnome-shell/extensions/*
 %{_datadir}/glib-2.0/schemas/*
 
